@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain-groq
+langchain-core
+pydantic
+rich
+python-dotenv
+redis
+pandas
+loguru
